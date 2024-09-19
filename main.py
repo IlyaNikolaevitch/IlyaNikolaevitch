@@ -1,5 +1,13 @@
-name = 'Python,'
-a = 12
-b = 1.5
-c = b/a
-print('Курс:', name, 'всего задач:',a,',''затрачено часов:',b,',' 'время выполнения',c,'часа.')
+# 1st program
+print(9**0.5*5)
+# 2nd program
+print(9.99>9.98 and 1000!=1000.1)
+# 3rd program
+print(2*2+2)
+print(2*(2+2))
+print(6==8)
+# 4th program
+print('123.456')
+print(type(float('123.456')))
+print(123.456*10)
+print(int(1234.56)%10)
